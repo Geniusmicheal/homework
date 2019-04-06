@@ -34,6 +34,8 @@
 			// echo "Highest Factor = ".$r-=abs($num2);
 			echo "<br> Quotient = "."-".$x-=2;
 			echo "<br> Remainder = ".$num1%$num2;
+		}else if($num1 == 0 && $num2 == 0){
+
 		}else{
 			$x =1;
 			do {
